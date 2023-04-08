@@ -1,0 +1,10 @@
+[package]
+name = "rrust-python-pandas"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+#pyo3 for macbook => pyo3 = "0.17.3"
+[dependencies]
+pyo3 = "0.17.3"
+log = "0.4.14"
